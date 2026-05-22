@@ -6,6 +6,10 @@ Note: CMSTP technique is well-known (been around since 2017) but most public POC
 
 ---
 
+https://github.com/Int3rtia/ruac/raw/main/.media/11%20-%20Trim.mp4
+<video src="https://raw.githubusercontent.com/Int3rtia/ruac/main/.media/11%20-%20Trim.mp4" controls autoplay loop muted width="100%">
+</video>
+
 Right now it just spawns an elevated `cmd.exe`. Swap out `elevated_payload()` with whatever you actually want to run.
 
 ---
